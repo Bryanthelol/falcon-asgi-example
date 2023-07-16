@@ -1,0 +1,8 @@
+falcon
+uvicorn
+requests
+httpie
+orjson==3.9.2
+msgpack-python==0.5.6
+pytest==7.4.0
+coverage
